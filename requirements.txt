@@ -1,0 +1,10 @@
+streamlit
+yfinance
+transformers
+torch
+xgboost
+scikit-learn
+pandas
+plotly
+finnhub-python
+python-dotenv
